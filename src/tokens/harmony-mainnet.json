@@ -5,7 +5,7 @@
     "symbol":"EUSK",
     "name":"Mintbes Token",
     "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/EUSK.png"
+    "logoURI":"https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/EUSK.png"
   },
   {
     "chainId":1666600000,
@@ -13,7 +13,7 @@
     "symbol":"LMA",
     "name":"LMA-Art-Gallery",
     "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LMA.png"
+    "logoURI":"https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/LMA.png"
   },
   {
     "chainId":1666600000,
@@ -21,7 +21,7 @@
     "symbol":"NFT",
     "name":"CryptoBunny",
     "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/NFT.png"
+    "logoURI":"https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/NFT.png"
   },
   {
     "chainId":1666600000,
@@ -29,7 +29,7 @@
     "symbol":"MCONE",
     "name":"McOne Coin",
     "decimals":9,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MCONE.png"
+    "logoURI":"https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/MCONE.png"
   },
   {
     "chainId":1666600000,
@@ -37,7 +37,7 @@
     "symbol":"LFGT",
     "name":"Let's Fucking Go Token",
     "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LFGT.png"
+    "logoURI":"https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/LFGT.png"
   },
   {
     "chainId":1666600000,
@@ -45,7 +45,7 @@
     "symbol":"BOOM",
     "name":"Boomers",
     "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/BOOM.png"
+    "logoURI":"https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/BOOM.png"
   },
   {
     "chainId":1666600000,
@@ -53,7 +53,7 @@
     "symbol":"MOONI",
     "name":"Moonity",
     "decimals":9,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MOONI.png"
+    "logoURI":"https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/MOONI.png"
   },
   {
     "chainId":1666600000,
@@ -61,7 +61,7 @@
     "symbol":"YIN",
     "name":"Yin",
     "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/YIN.png"
+    "logoURI":"https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/YIN.png"
   },
   {
     "chainId":1666600000,
@@ -69,7 +69,7 @@
     "symbol":"YANG",
     "name":"Yang",
     "decimals":18,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/YANG.png"
+    "logoURI":"https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/YANG.png"
   },
   {
     "chainId":1666600000,
@@ -77,7 +77,7 @@
     "symbol":"KURO",
     "name":"Kuro Shiba",
     "decimals":9,
-    "logoURI":"https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/KURO.png"
+    "logoURI":"https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/KURO.png"
   },
   {
     "chainId": 1666600000,
@@ -85,7 +85,7 @@
     "symbol": "1ROT",
     "name": "RottenToken",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1ROT.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1ROT.png"
   },
   {
     "chainId": 1666600000,
@@ -93,7 +93,7 @@
     "symbol": "1MAGGOT",
     "name": "MaggotToken",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/1MAGGOT.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/1MAGGOT.png"
   },
   {
     "chainId": 1666600000,
@@ -101,7 +101,7 @@
     "symbol": "SEAHORSE",
     "name": "Seahorse",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/SEAHORSE.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/SEAHORSE.png"
   },
   {
     "chainId": 1666600000,
@@ -109,7 +109,7 @@
     "symbol": "FRATE",
     "name": "Fraterium",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FRATE.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/FRATE.png"
   },
   {
     "chainId": 1666600000,
@@ -117,7 +117,7 @@
     "symbol": "hMOCHI",
     "name": "MochiSwap Token",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/HMOCHI.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/HMOCHI.png"
   },
   {
     "chainId": 1666600000,
@@ -125,7 +125,7 @@
     "symbol": "oSWAP",
     "name": "OpenSwap Token",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/OSWAP.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/OSWAP.png"
   },
   {
     "chainId": 1666600000,
@@ -133,7 +133,7 @@
     "symbol": "OpenX",
     "name": "OpenSwapX Token",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/OSWAP.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/OSWAP.png"
   },
   {
     "chainId": 1666600000,
@@ -141,7 +141,7 @@
     "symbol": "ROY",
     "name": "Royale",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/ROY.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/ROY.png"
   },
   {
     "chainId": 1666600000,
@@ -149,7 +149,7 @@
     "symbol": "XYA",
     "name": "Freyala",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/XYA.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/XYA.png"
   },
   {
     "chainId": 1666600000,
@@ -157,7 +157,7 @@
     "symbol": "GAME",
     "name": "GameToken",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/GAME.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/GAME.png"
   },
   {
     "chainId": 1666600000,
@@ -165,7 +165,7 @@
     "symbol": "CREDIT",
     "name": "Credit",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/CREDIT.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/CREDIT.png"
   },
   {
     "chainId": 1666600000,
@@ -173,7 +173,7 @@
     "symbol": "COINK",
     "name": "Piggybankone",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/COINK.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/COINK.png"
   },
   {
     "chainId": 1666600000,
@@ -181,7 +181,7 @@
     "symbol": "COSMIC",
     "name": "Cosmic Coin",
     "decimals": 9,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/COSMIC.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/COSMIC.png"
   },
   {
     "chainId": 1666600000,
@@ -189,7 +189,7 @@
     "symbol": "fRENT",
     "name": "Fraterium Rent",
     "decimals": 9,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FRENT.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/FRENT.png"
   },
   {
     "chainId": 1666600000,
@@ -197,7 +197,7 @@
     "symbol": "Ikura",
     "name": "Ikura Token",
     "decimals": 9,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/IKURA.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/IKURA.png"
   },
   {
     "chainId": 1666600000,
@@ -205,7 +205,7 @@
     "symbol": "MAGIC",
     "name": "Magic",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MAGIC.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/MAGIC.png"
   },
   {
     "chainId": 1666600000,
@@ -213,7 +213,7 @@
     "symbol": "FLOKI",
     "name": "FlokiONE",
     "decimals": 9,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FLOKI.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/FLOKI.png"
   },
   {
     "chainId": 1666600000,
@@ -221,7 +221,7 @@
     "symbol": "RAVE",
     "name": "RAVE",
     "decimals": 9,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/RAVE.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/RAVE.png"
   },
   {
     "chainId": 1666600000,
@@ -229,7 +229,7 @@
     "symbol": "LAZR",
     "name": "LAZR",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/LAZR.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/LAZR.png"
   },
   {
     "chainId": 1666600000,
@@ -237,7 +237,7 @@
     "symbol": "HPLAY",
     "name": "Harmony Play",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/HPLAY.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/HPLAY.png"
   },
   {
     "chainId": 1666600000,
@@ -245,7 +245,7 @@
     "symbol": "APE",
     "name": "HarmonApe",
     "decimals": 9,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/APE.png"
   },
   {
     "chainId": 1666600000,
@@ -253,7 +253,7 @@
     "symbol": "IRIS",
     "name": "Iris",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/IRIS.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/IRIS.png"
   },
   {
     "chainId": 1666600000,
@@ -261,7 +261,7 @@
     "symbol": "PLTS",
     "name": "Plutus",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/PLTS.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/PLTS.png"
   },
   {
     "chainId": 1666600000,
@@ -269,7 +269,7 @@
     "symbol": "IMRTL",
     "name": "Immortl",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/IMRTL.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/IMRTL.png"
   },
   {
     "chainId": 1666600000,
@@ -277,7 +277,7 @@
     "symbol": "rfUST",
     "name": "ReflectUST",
     "decimals": 9,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/rfUST.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/rfUST.png"
   },
   {
     "chainId": 1666600000,
@@ -285,7 +285,7 @@
     "symbol": "KIBA",
     "name": "KibaOne",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/KIBA.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/KIBA.png"
   },
   {
     "chainId": 1666600000,
@@ -293,7 +293,7 @@
     "symbol": "MET",
     "name": "Metatr.one",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MET.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/MET.png"
   },
   {
     "chainId": 1666600000,
@@ -301,7 +301,7 @@
     "symbol": "UNITE",
     "name": "UNITE",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UNITE.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/UNITE.png"
   },
   {
     "chainId": 1666600000,
@@ -309,7 +309,7 @@
     "symbol": "USHARE",
     "name": "USHARE",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/USHARE.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/USHARE.png"
   },
   {
     "chainId": 1666600000,
@@ -317,6 +317,6 @@
     "symbol": "UBOND",
     "name": "UBOND",
     "decimals": 18,
-    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UBOND.png"
+    "logoURI": "https://raw.githubusercontent.com/VenomProtocol/assets/main/tokens/UBOND.png"
   }
 ]

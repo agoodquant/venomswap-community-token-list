@@ -13,7 +13,7 @@ module.exports = function buildList() {
       patch: +parsed[2],
     },
     tags: {},
-    logoURI: "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/logos/venomswap-128x128.png",
+    logoURI: "https://raw.githubusercontent.com/VenomProtocol/assets/main/logos/venomswap-128x128.png",
     keywords: ["venomswap", "community"],
     tokens: [...harmony_mainnet, ...harmony_testnet]
       // sort them by symbol for easy readability
